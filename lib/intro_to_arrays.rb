@@ -20,6 +20,7 @@ def last_element(array)
   return array[-1]
 end 
 
+
 def length_of_an_array(array)
   array.length
 end
