@@ -16,6 +16,10 @@ def third_element(array)
   return array[2]
 end 
 
-def first_element(array)
-  return array[0]
+def last_element(array)
+  return array[-1]
 end 
+
+def length_of_an_array(array)
+  array.length
+end
